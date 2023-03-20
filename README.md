@@ -77,10 +77,11 @@ done
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
+<!--
 
     * Livros sobre Bash Scripts - [Diretório](https://drive.google.com/open?id=0B2INSZz1E5TlVWdkVFM0OUxKXzA)
 
-<!--
+
 
 #### Plataformas para Monitoramento no Cenário da IoT
 
