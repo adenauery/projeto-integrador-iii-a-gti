@@ -78,6 +78,12 @@ done
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
+#### Plataforma GitHub e seus Competidores ####
+
+* site GitHub: https://github.com/
+* Materia com GitHub e alternativas: https://www.g2.com/products/github/competitors/alternatives
+
+
 <!--
 
     * Livros sobre Bash Scripts - [Diretório](https://drive.google.com/open?id=0B2INSZz1E5TlVWdkVFM0OUxKXzA)
