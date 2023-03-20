@@ -53,7 +53,6 @@ Para uso do Bash, abaixo algumas opções:
 
   * Explorando Scripts Bash no Linux
     * Guia Foca Linux - [Site](https://guiafoca.org/)
-    * Livros sobre Bash Scripts - [Diretório](https://drive.google.com/open?id=0B2INSZz1E5TlVWdkVFM0OUxKXzA)
     * Exemplos de Scripts:
       * [Filtro CPU e Memória](http://olaria.ucpel.edu.br/materiais/doku.php?id=script-filtro-informacoes)
       * [Captura Informações Dinâmicas](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=script-cpu-dinamico.sh.zip)
@@ -71,10 +70,15 @@ a=7.11/6.79
 done
 ~~~
 
-<!--
+
 
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
+
+
+    * Livros sobre Bash Scripts - [Diretório](https://drive.google.com/open?id=0B2INSZz1E5TlVWdkVFM0OUxKXzA)
+
+<!--
 
 #### Plataformas para Monitoramento no Cenário da IoT
 
