@@ -1,31 +1,22 @@
-## Projeto Integrador III-A - Redes de Computadores
+## Projeto Integrador III-A - Gestão da Tecnologia da Informação
 
 Bem vindos ao repositório de trabalho do PI III-A
 
-Após este Projeto Integrador o aluno deverá ser capaz de organizar soluções para monitoramento de informações em redes de computadores complexas, como a Internet das Coisas. Os alunos serão levados a se apropriar de conceitos e funcionalidades de plataformas de amplo uso no cenário nacional e internacional, bem como explorar protocolos que viabilizem a implementação prática de soluções para monitoramento e análise de dados coletados de ambientes computacionais interconectados pela Internet.
-
-Neste **[link](https://docs.google.com/document/d/1zdyfHIcCNcf-rySs3LN2_LurPBLUwJroQaxFDrOZwx0/edit)** está disponível o seu Plano de Execução.
 
 ### Professores Responsáveis
 
 * Adenauer Yamin - adenauer.yamin at ucpel.edu.br
-* Rogério Albandes - rogerio.albandes at ucpel.edu.br
+* Alexandra Zimpeck - alexandra.zimpeck at ucpel.edu.br
 
 
 ### Equipe Acadêmica
 
-Os grupos devem ser compostos com o total de integrantes variando de 1 a 3.
-
-* **Grupo 1:** Natanaele Barros Machado e Emerson Barbosa De Medeiros
-* **Grupo 2:** Anderson Fernandes Moreira e Diogo Bitencourt Neuenfeld
-* **Grupo 3:** Dionathan Moraes Fuhrmann e Luciano Couto Da Silva
-* **Grupo 4:** Ranieri Martins Da Silva e Rodrigo Dos Santos Olmos
-* **Grupo 5:** Cinthia Scheunemann
 
 Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grupo.
 
  
-### Primeiro Encontro Síncrono - 26/03/2022
+### Primeiro Encontro Presencial - 26/03/2022 - Profa. Alexandra Zimpeck
+* Material disponível no Mural de Interação da disciplina
 
 #### Visão Geral da IoT
   * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=internet-das-coisas-iot.pdf)
@@ -34,6 +25,7 @@ Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grup
 * [Site 1](https://www.levenez.com/unix/), [Site 2](https://en.wikipedia.org/wiki/Timeline_of_operating_systems), [Site 3](https://lcomlinux.wordpress.com/a-historia-do-linux/), [Site 4](https://distrowatch.com/)
 * [Padrão POSIX](https://pt.wikipedia.org/wiki/POSIX)
 
+<!---
 #### Explorando Máquinas Virtuais para Instalação de uma Distribuição Linux
 
 Para uso do Bash, abaixo algumas opções:
@@ -42,6 +34,8 @@ Para uso do Bash, abaixo algumas opções:
    * Virtualizador sugerido: [Virtual Box](https://www.virtualbox.org/) instalar também o Extension Pack
    * Distribuição sugerida: [Linux Mint](https://linuxmint.com/)
 * Explorando o [WSL](https://docs.microsoft.com/pt-br/windows/wsl/about)
+
+-->
 
 #### Atualizando o sistema operacional (Sistemas com base no Debian)
 * sudo su \-
