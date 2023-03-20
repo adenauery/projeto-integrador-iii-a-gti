@@ -60,6 +60,8 @@ Para uso do Bash, abaixo algumas opções:
   * Para tornar executável um Script utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
+
+
 #### Para monitorar a ocupação de CPU utilizar um programa para gerar carga sintética, como o abaixo escrito em Bash:
 
 ~~~
@@ -69,6 +71,7 @@ a=7.11/6.79
 done
 ~~~
 
+<!--
 
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
@@ -162,6 +165,7 @@ Este dahsboard foi feito utilizando o Framework Grafana e o Banco de Dados Postg
    * [Instalando o Docker no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
    * [Instalando o Docker-Composer no Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt)
  
+-->
  
 <!-- ESTA PARTE ESTÁ COMENTADA
     
