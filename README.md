@@ -15,8 +15,10 @@ Bem vindos ao repositório de trabalho do PI III-A
 Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grupo.
 
  
-### Primeiro Encontro Presencial - 26/03/2022 - Profa. Alexandra Zimpeck
+### Primeiro Encontro Presencial - 06/03/2023 - Profa. Alexandra Zimpeck
 * Material disponível no Mural de Interação da disciplina
+
+### Segundo Encontro Presencial - 20/03/2023 - Prof. Adenauer Yamin
 
 #### Visão Geral da IoT
   * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=internet-das-coisas-iot.pdf)
