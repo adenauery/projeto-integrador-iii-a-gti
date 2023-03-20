@@ -22,6 +22,7 @@ Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grup
 
 #### Visão Geral da IoT
   * [Slides Introdutórios](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=internet-das-coisas-iot.pdf)
+  * [Crescimento da IoT & Não IoT](https://iot-analytics.com/state-of-the-iot-update-q1-q2-2018-number-of-iot-devices-now-7b/)
 
 #### História do Unix
 * [Site 1](https://www.levenez.com/unix/), [Site 2](https://en.wikipedia.org/wiki/Timeline_of_operating_systems), [Site 3](https://lcomlinux.wordpress.com/a-historia-do-linux/), [Site 4](https://distrowatch.com/)
