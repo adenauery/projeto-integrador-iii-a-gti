@@ -78,6 +78,11 @@ done
   * Para tornar executável utilizar no terminal o comando **chmod 755 nome-do-programa.sh**
   * Para executar utilizar **./nome-do-programa.sh**
 
+#### Download do Emulador de Terminais PUTTTy ####
+
+* https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
 #### Plataforma GitHub e seus Competidores ####
 
 * site GitHub: https://github.com/
