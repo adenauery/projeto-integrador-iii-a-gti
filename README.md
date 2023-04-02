@@ -9,10 +9,11 @@ Bem vindos ao repositório de trabalho do PI III-A
 * Alexandra Zimpeck - alexandra.zimpeck at ucpel.edu.br
 
 
-### Equipe Acadêmica
+### Acesso a Plataforma de Banco de Dados e seu Dashboard:
 
+* http://pi-iii-a.exehda.org:3000/
+* http://pi-iii-a.exehda.org/phpmyadmin/
 
-Abaixo está a indicação da Plataforma IoT sob a responsabilidade de cada grupo.
 
  
 ### Primeiro Encontro Presencial - 06/03/2023 - Profa. Alexandra Zimpeck
