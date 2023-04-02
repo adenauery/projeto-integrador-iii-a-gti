@@ -12,7 +12,7 @@ Bem vindos ao repositório de trabalho do PI III-A
 ### Acesso a Plataforma de Banco de Dados e seu Dashboard:
 
 * [Acesso Web ao Banco de Dados](http://pi-iii-a.exehda.org/phpmyadmin/)
-* [Dashboard Baseado no Grafana](http://pi-iii-a.exehda.org:3000/)
+* [Dashboard Baseado no Grafana com Acesso ao Banco de Dados](http://pi-iii-a.exehda.org:3000/)
 
 
  
