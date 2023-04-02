@@ -14,6 +14,8 @@ Bem vindos ao repositório de trabalho do PI III-A
 * [Acesso Web ao Banco de Dados](http://pi-iii-a.exehda.org/phpmyadmin/)
 * [Dashboard Baseado no Grafana com Acesso ao Banco de Dados](http://pi-iii-a.exehda.org:3000/)
 
+Os dados de login devem ser solicitados aos professores.
+
 
  
 ### Primeiro Encontro Presencial - 06/03/2023 - Profa. Alexandra Zimpeck
