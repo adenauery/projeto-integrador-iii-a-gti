@@ -57,9 +57,10 @@ Para uso do Bash, abaixo algumas opções:
 
 
 #### Explorando Scripts Bash no Linux
-    * Guia Foca Linux - [Site](https://guiafoca.org/)
-    * [Melhores alternativas para o BASH](https://sempreupdate.com.br/melhores-alternativas-para-o-bash/)
-    * [Principais Comandos do Linux. 35 Comandos com Comentários](https://www.hostinger.com.br/tutoriais/comandos-linux#Comandos_Mais_Usados_no_Linux)
+* Guia Foca Linux - [Site](https://guiafoca.org/)
+* [Entenda o que é o BASH, para que serve e como usar](https://rockcontent.com/br/blog/bash/)
+* [Melhores alternativas para o BASH](https://sempreupdate.com.br/melhores-alternativas-para-o-bash/)
+* [Principais Comandos do Linux. 35 Comandos com Comentários](https://www.hostinger.com.br/tutoriais/comandos-linux#Comandos_Mais_Usados_no_Linux)
     * Exemplos de Scripts:
       * [Filtro CPU e Memória](http://olaria.ucpel.edu.br/materiais/doku.php?id=script-filtro-informacoes)
       * [Captura Informações Dinâmicas](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=script-cpu-dinamico.sh.zip)
